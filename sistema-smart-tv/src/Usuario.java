@@ -12,7 +12,7 @@ public class Usuario {
 
         smartTv.mudarCanal(13);
         System.out.println("Canal Atual : " + smartTv.canal);
-        
+
 
         System.out.println("TV ligada ? " + smartTv.ligada);
         System.out.println("Canal Atual : " + smartTv.canal);
