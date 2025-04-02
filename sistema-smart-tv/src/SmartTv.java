@@ -3,6 +3,7 @@ public class SmartTv {
     int canal = 1;
     int volume = 25;
 
+    //POO
 
     public void mudarCanal (int novoCanal){ //entre parênteses são parametros. 
         canal = novoCanal;

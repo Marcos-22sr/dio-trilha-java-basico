@@ -1,6 +1,8 @@
 public class Usuario {
     public static void main(String[] args) throws Exception {
         
+        //criando um Poo
+
         SmartTv smartTv = new SmartTv();
 
         smartTv.dimunirVolume();
